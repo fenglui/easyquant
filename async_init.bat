@@ -1,0 +1,1 @@
+git remote add easyquant https://github.com/shidenggui/easyquant.git
